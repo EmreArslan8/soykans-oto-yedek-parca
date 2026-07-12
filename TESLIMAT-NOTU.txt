@@ -1,0 +1,9 @@
+Bu site domain belli olmadan, domain-nötr olarak teslim edilmiştir.
+
+Yayına alırken (opsiyonel, SEO için önerilir):
+1) <head> içine kanonik adres ekleyin: <link rel="canonical" href="https://SIZIN-DOMAIN.com/">
+2) og:url ve og:image adreslerini kendi domaininizle ekleyin/güncelleyin.
+3) robots.txt sonuna: Sitemap: https://SIZIN-DOMAIN.com/sitemap.xml
+4) İsterseniz basit bir sitemap.xml oluşturun (tek sayfa: https://SIZIN-DOMAIN.com/).
+
+Not: Site tümüyle çalışır; bu adımlar yalnızca arama motoru optimizasyonu içindir.
